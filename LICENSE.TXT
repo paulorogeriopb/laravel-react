@@ -1,0 +1,53 @@
+1. Introdução
+Este documento tem como objetivo descrever o uso do sistema, detalhando suas principais funcionalidades e instruções de operação para os usuários.
+
+2. Acesso ao Sistema
+Para acessar o sistema, siga os seguintes passos:
+
+Abra o navegador e digite a URL do sistema.
+
+Insira seu login e senha cadastrados.
+
+Clique no botão "Entrar".
+
+Caso tenha esquecido sua senha, utilize a opção "Esqueci minha senha" para redefini-la.
+
+3. Funcionalidades Principais
+O sistema possui as seguintes funcionalidades principais:
+
+Cadastro de Usuários: Permite o registro e gerenciamento de usuários.
+
+Gerenciamento de Permissões: Configuração de acessos e permissões conforme perfil do usuário.
+
+Dashboard: Exibição de métricas e informações relevantes.
+
+Registro de Atividades: Histórico detalhado das operações realizadas no sistema.
+
+Relatórios: Geração de relatórios customizáveis para análise de dados.
+
+4. Navegação e Uso
+A interface do sistema é intuitiva e baseada em menus. Para realizar operações, siga as orientações abaixo:
+
+Utilize o menu lateral para acessar as funcionalidades desejadas.
+
+Preencha os campos obrigatórios ao cadastrar ou editar informações.
+
+Utilize os botões "Salvar", "Editar" e "Excluir" conforme necessário.
+
+Para realizar buscas, utilize o campo de pesquisa disponível nas telas principais.
+
+5. Boas Práticas de Uso
+
+Mantenha suas credenciais de acesso seguras.
+
+Sempre saia do sistema ao finalizar o uso.
+
+Utilize senhas fortes e altere-as periodicamente.
+
+Verifique as permissões antes de realizar alterações em dados sensíveis.
+
+6. Suporte e Contato
+Caso encontre dificuldades ou tenha dúvidas, entre em contato com o suporte técnico através do e-mail suporte@empresa.com ou pelo telefone (XX) XXXX-XXXX.
+
+7. Considerações Finais
+O uso correto do sistema garante eficiência e segurança nas operações. Recomenda-se que os usuários leiam este documento atentamente e sigam as diretrizes estabelecidas para melhor experiência e desempenho.
